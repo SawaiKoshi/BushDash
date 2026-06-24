@@ -48,6 +48,7 @@ public class PlayerContorolla : MonoBehaviour
     public Sprite idleUpSprite;
     public Sprite idleSideSprite;
     public float walkFrameInterval = 0.15f;
+    public float dishSearchRadius = 1.0f;
 
 
     private float walkAnimationTimer = 0f;
@@ -125,6 +126,8 @@ void Start()
 
     void Update()
     {
+        UpdateNearestDish();
+
         if (isGameFinished == true)
         {
             if (Input.GetKeyDown(KeyCode.R))
@@ -192,10 +195,15 @@ void Start()
         {
             if (nearbyDish != null && carriedDishCount < maxCarry)
             {
+                GameObject pickedDish = nearbyDish;
+
                 HideDishActionText();
 
-                Destroy(nearbyDish);
                 nearbyDish = null;
+                currentDishActionText = null;
+
+                pickedDish.SetActive(false);
+                Destroy(pickedDish);
 
                 carriedDishCount += 1;
 
@@ -231,28 +239,6 @@ void Start()
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("DishPickup"))
-        {
-            HideDishActionText();
-            nearbyDish = other.transform.parent.gameObject;
-
-            currentDishActionText = nearbyDish.GetComponentInChildren<TextMeshPro>(true);
-
-            if (currentDishActionText != null)
-            { 
-                if (carriedDishCount < maxCarry)
-                {
-                    currentDishActionText.text = "Space: Pick Dish";
-                }
-                else
-                {
-                    currentDishActionText.text = "Tray Full";
-                }
-            
-                currentDishActionText.gameObject.SetActive(true);
-            }
-            Debug.Log("ŽM‚Ì‹ß‚­‚É‚¢‚é");
-        }
         if(other.gameObject.name == "sink")
         {
             nearSink = true;
@@ -266,18 +252,6 @@ void Start()
     }
     private void OnTriggerExit2D(Collider2D other)
     {
-        if (other.CompareTag("DishPickup"))
-        {
-            GameObject dish = other.transform.parent.gameObject;
-
-            if (nearbyDish == dish)
-            {
-                HideDishActionText();
-                nearbyDish = null;
-
-                Debug.Log("ŽM‚©‚ç—£‚ê‚½");
-            }
-        }
         if (other.gameObject.name == "sink")
         { 
             nearSink = false;
@@ -718,6 +692,69 @@ void Start()
             {
                 playerSprite.sprite = idleDownSprite;
             }
+        }
+    }
+    void UpdateNearestDish()
+    {
+        Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, dishSearchRadius);
+
+        GameObject nearestDish = null;
+        float nearestDistance = Mathf.Infinity;
+
+        foreach (Collider2D hit in hits)
+        {
+            if (hit.CompareTag("DishPickup") == false)
+            {
+                continue;
+            }
+
+            GameObject dish = hit.transform.parent.gameObject;
+
+            if (dish == null || dish.activeSelf == false)
+            {
+                continue;
+            }
+
+            float distance = Vector2.Distance(transform.position, dish.transform.position);
+
+            if (distance < nearestDistance)
+            {
+                nearestDistance = distance;
+                nearestDish = dish;
+            }
+        }
+
+        if (nearestDish != nearbyDish)
+        {
+            HideDishActionText();
+
+            nearbyDish = nearestDish;
+            currentDishActionText = null;
+
+            if (nearbyDish != null)
+            {
+                currentDishActionText = nearbyDish.GetComponentInChildren<TextMeshPro>(true);
+            }
+        }
+
+        if (nearbyDish == null)
+        {
+            HideDishActionText();
+            return;
+        }
+
+        if (currentDishActionText != null)
+        {
+            if (carriedDishCount < maxCarry)
+            {
+                currentDishActionText.text = "Space: Pick Dish";
+            }
+            else
+            {
+                currentDishActionText.text = "Tray Full";
+            }
+
+            currentDishActionText.gameObject.SetActive(true);
         }
     }
 }
