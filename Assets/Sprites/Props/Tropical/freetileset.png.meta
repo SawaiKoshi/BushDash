@@ -1,0 +1,2600 @@
+fileFormatVersion: 2
+guid: 8e9e5d1805792314d82597213137b79f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8671507335232492203
+    second: freetileset_0
+  - first:
+      213: -3053316346967348021
+    second: freetileset_1
+  - first:
+      213: 9006264768805799439
+    second: freetileset_2
+  - first:
+      213: 5764560999856005230
+    second: freetileset_3
+  - first:
+      213: 2121050998703368664
+    second: freetileset_4
+  - first:
+      213: -6012261234669159641
+    second: freetileset_5
+  - first:
+      213: -2862882530475332720
+    second: freetileset_6
+  - first:
+      213: -4727948930166361311
+    second: freetileset_7
+  - first:
+      213: -8031263373301259082
+    second: freetileset_8
+  - first:
+      213: 3744241140931770844
+    second: freetileset_9
+  - first:
+      213: -622789536670478228
+    second: freetileset_10
+  - first:
+      213: -2306134057800107347
+    second: freetileset_11
+  - first:
+      213: 2833216486529000501
+    second: freetileset_12
+  - first:
+      213: -4080012677818150138
+    second: freetileset_13
+  - first:
+      213: 1497127456267253546
+    second: freetileset_14
+  - first:
+      213: 4923894211006545600
+    second: freetileset_15
+  - first:
+      213: 4611928503093265266
+    second: freetileset_16
+  - first:
+      213: 3255784457903864631
+    second: freetileset_17
+  - first:
+      213: 2396865849422248585
+    second: freetileset_18
+  - first:
+      213: -4324994103021985713
+    second: freetileset_19
+  - first:
+      213: 5817061940833666986
+    second: freetileset_20
+  - first:
+      213: -1081998156005030432
+    second: freetileset_21
+  - first:
+      213: 5777386784811348716
+    second: freetileset_22
+  - first:
+      213: -697716162951619961
+    second: freetileset_23
+  - first:
+      213: -4195676611561495872
+    second: freetileset_24
+  - first:
+      213: -4501788099766758451
+    second: freetileset_25
+  - first:
+      213: -7467849072411752103
+    second: freetileset_26
+  - first:
+      213: 7790302396711035085
+    second: freetileset_27
+  - first:
+      213: -2542360264516173032
+    second: freetileset_28
+  - first:
+      213: 6192530560288067504
+    second: freetileset_29
+  - first:
+      213: 68617673866422002
+    second: freetileset_30
+  - first:
+      213: 5539943448621285360
+    second: freetileset_31
+  - first:
+      213: -7196913363404272546
+    second: freetileset_32
+  - first:
+      213: 4042813306077543587
+    second: freetileset_33
+  - first:
+      213: 6366675369470481562
+    second: freetileset_34
+  - first:
+      213: 910052868256092206
+    second: freetileset_35
+  - first:
+      213: 7071147961203074309
+    second: freetileset_36
+  - first:
+      213: -6525114950857201860
+    second: freetileset_37
+  - first:
+      213: 4520406070915334961
+    second: freetileset_38
+  - first:
+      213: -7110457646496031470
+    second: freetileset_39
+  - first:
+      213: -6483873228005027756
+    second: freetileset_40
+  - first:
+      213: -2244304989792270909
+    second: freetileset_41
+  - first:
+      213: -2963145925075135246
+    second: freetileset_42
+  - first:
+      213: 4372714014089601446
+    second: freetileset_43
+  - first:
+      213: -2599231849123124875
+    second: freetileset_44
+  - first:
+      213: 455660641016943180
+    second: freetileset_45
+  - first:
+      213: 3085642705636059781
+    second: freetileset_46
+  - first:
+      213: -8911029816669107210
+    second: freetileset_47
+  - first:
+      213: -3404393972056016465
+    second: freetileset_48
+  - first:
+      213: 5457850017065673496
+    second: freetileset_49
+  - first:
+      213: -969534125461497746
+    second: freetileset_50
+  - first:
+      213: -2617588261961634421
+    second: freetileset_51
+  - first:
+      213: -4812773283285993769
+    second: freetileset_52
+  - first:
+      213: -9122633105489751163
+    second: freetileset_53
+  - first:
+      213: 8327379577297875954
+    second: freetileset_54
+  - first:
+      213: -8255830940008022959
+    second: freetileset_55
+  - first:
+      213: 6175327404829905664
+    second: freetileset_56
+  - first:
+      213: -4294752379112883599
+    second: freetileset_57
+  - first:
+      213: -2624920449832222506
+    second: freetileset_58
+  - first:
+      213: -6770263288032605551
+    second: freetileset_59
+  - first:
+      213: 165953768811412302
+    second: freetileset_60
+  - first:
+      213: 1040735486745839900
+    second: freetileset_61
+  - first:
+      213: 4290859769335513078
+    second: freetileset_62
+  - first:
+      213: -6752122876704516650
+    second: freetileset_63
+  - first:
+      213: 6487561906840166487
+    second: freetileset_64
+  - first:
+      213: 6222739749322570841
+    second: freetileset_65
+  - first:
+      213: 3122650315691011203
+    second: freetileset_66
+  - first:
+      213: 1432620566360534569
+    second: freetileset_67
+  - first:
+      213: 5243145604067136952
+    second: freetileset_68
+  - first:
+      213: 8848215312435858890
+    second: freetileset_69
+  - first:
+      213: -5677224867667184367
+    second: freetileset_70
+  - first:
+      213: -5489572096584550212
+    second: freetileset_71
+  - first:
+      213: -1558777674627732632
+    second: freetileset_72
+  - first:
+      213: -681178305829394900
+    second: freetileset_73
+  - first:
+      213: 6170139548283141848
+    second: freetileset_74
+  - first:
+      213: -2839161958268432542
+    second: freetileset_75
+  - first:
+      213: 7853009150684423774
+    second: freetileset_76
+  - first:
+      213: 2148099975773624866
+    second: freetileset_77
+  - first:
+      213: 2736789102341052108
+    second: freetileset_78
+  - first:
+      213: 1211162902056091058
+    second: freetileset_79
+  - first:
+      213: 5297246667236455327
+    second: freetileset_80
+  - first:
+      213: 7631104382473263398
+    second: freetileset_81
+  - first:
+      213: 2274214489168606300
+    second: freetileset_82
+  - first:
+      213: -1849231939630556299
+    second: freetileset_83
+  - first:
+      213: 4787783290761136941
+    second: freetileset_84
+  - first:
+      213: -7471135638253263128
+    second: freetileset_85
+  - first:
+      213: 2383064694947344770
+    second: freetileset_86
+  - first:
+      213: 5368169885414973924
+    second: freetileset_87
+  - first:
+      213: -6419884650474597708
+    second: freetileset_88
+  - first:
+      213: -5269886179408678308
+    second: freetileset_89
+  - first:
+      213: -190814863923862319
+    second: freetileset_90
+  - first:
+      213: 2203566322410789726
+    second: freetileset_91
+  - first:
+      213: -764255068750213187
+    second: freetileset_92
+  - first:
+      213: 4988779387640663935
+    second: freetileset_93
+  - first:
+      213: 1372433177564616488
+    second: freetileset_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: freetileset_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 584
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba21abf4af1675870800000000000000
+      internalID: 8671507335232492203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 584
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc2e18a5f070a5d0800000000000000
+      internalID: -3053316346967348021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 584
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0609c9071eacfc70800000000000000
+      internalID: 9006264768805799439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60ec7affa5dfff40800000000000000
+      internalID: 5764560999856005230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 585
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9a33045ac7f6d10800000000000000
+      internalID: 2121050998703368664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 585
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b71bae248209ca0800000000000000
+      internalID: -6012261234669159641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 548
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ba859b18ff448d0800000000000000
+      internalID: -2862882530475332720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 549
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123fe3d6f73f26eb0800000000000000
+      internalID: -4727948930166361311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 552
+        width: 13
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4e5c073883b8090800000000000000
+      internalID: -8031263373301259082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 183
+        width: 393
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd934a6da7736f330800000000000000
+      internalID: 3744241140931770844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 551
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c601de057386b57f0800000000000000
+      internalID: -622789536670478228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 569
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daaf468fa47feffd0800000000000000
+      internalID: -2306134057800107347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 569
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534675b226b915720800000000000000
+      internalID: 2833216486529000501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 563
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6031f8b1612e067c0800000000000000
+      internalID: -4080012677818150138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 555
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a273b464d7dd6c410800000000000000
+      internalID: 1497127456267253546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 555
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ceb5ae62bf255440800000000000000
+      internalID: 4923894211006545600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 552
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2738f5cd98cd00040800000000000000
+      internalID: 4611928503093265266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 554
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bf89ee6bede2d20800000000000000
+      internalID: 3255784457903864631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 554
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98af3197ac0634120800000000000000
+      internalID: 2396865849422248585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 552
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4027b137c88af3c0800000000000000
+      internalID: -4324994103021985713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 540
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7c5dbd30b5ab050800000000000000
+      internalID: 5817061940833666986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 535
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e541b7e868fbf0f0800000000000000
+      internalID: -1081998156005030432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_22
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 535
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce277bebba66d2050800000000000000
+      internalID: 5777386784811348716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 524
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a5831b8d63156f0800000000000000
+      internalID: -697716162951619961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 524
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c26677f956f5c5c0800000000000000
+      internalID: -4195676611561495872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 535
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc35253239f6681c0800000000000000
+      internalID: -4501788099766758451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 535
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959caa2c5dedc5890800000000000000
+      internalID: -7467849072411752103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 510
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0e5d841c6bc1c60800000000000000
+      internalID: 7790302396711035085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 510
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81302763fc8b7bcd0800000000000000
+      internalID: -2542360264516173032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 455
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf88b23cb940f550800000000000000
+      internalID: 6192530560288067504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 519
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f62f1c2967c3f000800000000000000
+      internalID: 68617673866422002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 519
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fff2d2f635d1ec40800000000000000
+      internalID: 5539943448621285360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 494
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cc6074d6d6f1c90800000000000000
+      internalID: -7196913363404272546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 455
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac79f93845fa1830800000000000000
+      internalID: 4042813306077543587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_34
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 487
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9454853489fa5850800000000000000
+      internalID: 6366675369470481562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_35
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 487
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20da33134821ac00800000000000000
+      internalID: 910052868256092206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_36
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 473
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505acbd2b93c12260800000000000000
+      internalID: 7071147961203074309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 462
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37e09316822275a0800000000000000
+      internalID: -6525114950857201860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 423
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1338d611f55bbbe30800000000000000
+      internalID: 4520406070915334961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 423
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dd42e7174925d90800000000000000
+      internalID: -7110457646496031470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 439
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4505814f6a7a406a0800000000000000
+      internalID: -6483873228005027756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_41
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 409
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c58bcba080aad0e0800000000000000
+      internalID: -2244304989792270909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 439
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f410460b7ac0e6d0800000000000000
+      internalID: -2963145925075135246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 440
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1ee2a6a300fac30800000000000000
+      internalID: 4372714014089601446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5796220976cadebd0800000000000000
+      internalID: -2599231849123124875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 440
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4211f550f4d25600800000000000000
+      internalID: 455660641016943180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 424
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a663d31b762da20800000000000000
+      internalID: 3085642705636059781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_47
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 391
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb068a2899a55480800000000000000
+      internalID: -8911029816669107210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_48
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 391
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9be1c38b921c0d0800000000000000
+      internalID: -3404393972056016465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_49
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 409
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8132f807cad2ebb40800000000000000
+      internalID: 5457850017065673496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_50
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 295
+        width: 159
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e689f3689d58b82f0800000000000000
+      internalID: -969534125461497746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 393
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d6b8528557cabd0800000000000000
+      internalID: -2617588261961634421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_52
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 377
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d67f31b238953db0800000000000000
+      internalID: -4812773283285993769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583901b3685e56180800000000000000
+      internalID: -9122633105489751163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 360
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3beaeea9bc09370800000000000000
+      internalID: 8327379577297875954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 343
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c742750856d6d80800000000000000
+      internalID: -8255830940008022959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_56
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 328
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0031f907e8b23b550800000000000000
+      internalID: 6175327404829905664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_57
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 360
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a76bc3779f564c0800000000000000
+      internalID: -4294752379112883599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_58
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 359
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0871022c8629bd0800000000000000
+      internalID: -2624920449832222506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ac2f0f8613b02a0800000000000000
+      internalID: -6770263288032605551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 330
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b342fc2169d4200800000000000000
+      internalID: 165953768811412302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_61
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 330
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1901a0496f617e00800000000000000
+      internalID: 1040735486745839900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_62
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 338
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fff14ce9323c8b30800000000000000
+      internalID: 4290859769335513078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_63
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 323
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d51d369404ab42a0800000000000000
+      internalID: -6752122876704516650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 311
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75060938e23780a50800000000000000
+      internalID: 6487561906840166487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_65
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 311
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c331025dc9b5650800000000000000
+      internalID: 6222739749322570841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_66
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 312
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c2688eae1e55b20800000000000000
+      internalID: 3122650315691011203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_67
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 296
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ea6d390d0b1e310800000000000000
+      internalID: 1432620566360534569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_68
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 319
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b59214c52563c840800000000000000
+      internalID: 5243145604067136952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_69
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 305
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd49e162fc2bca70800000000000000
+      internalID: 8848215312435858890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 300
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115fea4ef027631b0800000000000000
+      internalID: -5677224867667184367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_71
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 306
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb87e2e534f11d3b0800000000000000
+      internalID: -5489572096584550212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_72
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 301
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b2104b6fb1e5ae0800000000000000
+      internalID: -1558777674627732632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_73
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 296
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26265c90f7fb86f0800000000000000
+      internalID: -681178305829394900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_74
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 296
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de71067a3db0a550800000000000000
+      internalID: 6170139548283141848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_75
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 231
+        width: 94
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f8b91dd354998d0800000000000000
+      internalID: -2839161958268432542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_76
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 295
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56ef6c273e7bfc60800000000000000
+      internalID: 7853009150684423774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 280
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a130efb859fcd10800000000000000
+      internalID: 2148099975773624866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_78
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 280
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6d23e30370bf520800000000000000
+      internalID: 2736789102341052108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_79
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 296
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd3f2e0e3aeec010800000000000000
+      internalID: 1211162902056091058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 168
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93304027c9938940800000000000000
+      internalID: 5297246667236455327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_81
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 215
+        width: 12
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629de39210127e960800000000000000
+      internalID: 7631104382473263398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_82
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 199
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54f0f15702af8f10800000000000000
+      internalID: 2274214489168606300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_83
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 215
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b930b39553656e0800000000000000
+      internalID: -1849231939630556299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_84
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 215
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b4e53498f917240800000000000000
+      internalID: 4787783290761136941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_85
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 40
+        width: 142
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6272588b1315890800000000000000
+      internalID: -7471135638253263128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_86
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 215
+        width: 14
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2817c1bc6b8521120800000000000000
+      internalID: 2383064694947344770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_87
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 168
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1eb1aa1129f7a40800000000000000
+      internalID: 5368169885414973924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 167
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b29a75acecf7e6a0800000000000000
+      internalID: -6419884650474597708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_89
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 153
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52fa9dd07a9dd6b0800000000000000
+      internalID: -5269886179408678308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_90
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 104
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d424f964e61a5df0800000000000000
+      internalID: -190814863923862319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_91
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 105
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b1f4e25e3a49e10800000000000000
+      internalID: 2203566322410789726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_92
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 87
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf0a5d6012d465f0800000000000000
+      internalID: -764255068750213187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_93
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fcc1fdb64bb3540800000000000000
+      internalID: 4988779387640663935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freetileset_94
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 7
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82713ba14bcdb0310800000000000000
+      internalID: 1372433177564616488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      freetileset_0: 8671507335232492203
+      freetileset_1: -3053316346967348021
+      freetileset_10: -622789536670478228
+      freetileset_11: -2306134057800107347
+      freetileset_12: 2833216486529000501
+      freetileset_13: -4080012677818150138
+      freetileset_14: 1497127456267253546
+      freetileset_15: 4923894211006545600
+      freetileset_16: 4611928503093265266
+      freetileset_17: 3255784457903864631
+      freetileset_18: 2396865849422248585
+      freetileset_19: -4324994103021985713
+      freetileset_2: 9006264768805799439
+      freetileset_20: 5817061940833666986
+      freetileset_21: -1081998156005030432
+      freetileset_22: 5777386784811348716
+      freetileset_23: -697716162951619961
+      freetileset_24: -4195676611561495872
+      freetileset_25: -4501788099766758451
+      freetileset_26: -7467849072411752103
+      freetileset_27: 7790302396711035085
+      freetileset_28: -2542360264516173032
+      freetileset_29: 6192530560288067504
+      freetileset_3: 5764560999856005230
+      freetileset_30: 68617673866422002
+      freetileset_31: 5539943448621285360
+      freetileset_32: -7196913363404272546
+      freetileset_33: 4042813306077543587
+      freetileset_34: 6366675369470481562
+      freetileset_35: 910052868256092206
+      freetileset_36: 7071147961203074309
+      freetileset_37: -6525114950857201860
+      freetileset_38: 4520406070915334961
+      freetileset_39: -7110457646496031470
+      freetileset_4: 2121050998703368664
+      freetileset_40: -6483873228005027756
+      freetileset_41: -2244304989792270909
+      freetileset_42: -2963145925075135246
+      freetileset_43: 4372714014089601446
+      freetileset_44: -2599231849123124875
+      freetileset_45: 455660641016943180
+      freetileset_46: 3085642705636059781
+      freetileset_47: -8911029816669107210
+      freetileset_48: -3404393972056016465
+      freetileset_49: 5457850017065673496
+      freetileset_5: -6012261234669159641
+      freetileset_50: -969534125461497746
+      freetileset_51: -2617588261961634421
+      freetileset_52: -4812773283285993769
+      freetileset_53: -9122633105489751163
+      freetileset_54: 8327379577297875954
+      freetileset_55: -8255830940008022959
+      freetileset_56: 6175327404829905664
+      freetileset_57: -4294752379112883599
+      freetileset_58: -2624920449832222506
+      freetileset_59: -6770263288032605551
+      freetileset_6: -2862882530475332720
+      freetileset_60: 165953768811412302
+      freetileset_61: 1040735486745839900
+      freetileset_62: 4290859769335513078
+      freetileset_63: -6752122876704516650
+      freetileset_64: 6487561906840166487
+      freetileset_65: 6222739749322570841
+      freetileset_66: 3122650315691011203
+      freetileset_67: 1432620566360534569
+      freetileset_68: 5243145604067136952
+      freetileset_69: 8848215312435858890
+      freetileset_7: -4727948930166361311
+      freetileset_70: -5677224867667184367
+      freetileset_71: -5489572096584550212
+      freetileset_72: -1558777674627732632
+      freetileset_73: -681178305829394900
+      freetileset_74: 6170139548283141848
+      freetileset_75: -2839161958268432542
+      freetileset_76: 7853009150684423774
+      freetileset_77: 2148099975773624866
+      freetileset_78: 2736789102341052108
+      freetileset_79: 1211162902056091058
+      freetileset_8: -8031263373301259082
+      freetileset_80: 5297246667236455327
+      freetileset_81: 7631104382473263398
+      freetileset_82: 2274214489168606300
+      freetileset_83: -1849231939630556299
+      freetileset_84: 4787783290761136941
+      freetileset_85: -7471135638253263128
+      freetileset_86: 2383064694947344770
+      freetileset_87: 5368169885414973924
+      freetileset_88: -6419884650474597708
+      freetileset_89: -5269886179408678308
+      freetileset_9: 3744241140931770844
+      freetileset_90: -190814863923862319
+      freetileset_91: 2203566322410789726
+      freetileset_92: -764255068750213187
+      freetileset_93: 4988779387640663935
+      freetileset_94: 1372433177564616488
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
