@@ -7,6 +7,7 @@ TagManager:
   - Dish
   - Customer
   - DishPickup
+  - Sink
   layers:
   - Default
   - TransparentFX

@@ -239,7 +239,7 @@ void Start()
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.gameObject.name == "sink")
+        if(other.CompareTag("Sink"))
         {
             nearSink = true;
             Debug.Log("ô‚¢ê‚Ì‹ß‚­‚É‚¢‚éB");
@@ -252,7 +252,7 @@ void Start()
     }
     private void OnTriggerExit2D(Collider2D other)
     {
-        if (other.gameObject.name == "sink")
+        if (other.CompareTag("Sink"))
         { 
             nearSink = false;
         Debug.Log("ô‚¢ê‚©‚ç—£‚ê‚½B");
