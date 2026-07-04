@@ -7,7 +7,9 @@ public class CustomerMover : MonoBehaviour
     public bool moveHorizontal = true;
 
     [Header("Walk Animation")]
-    public Sprite[] walkSprites;
+    public Sprite[] walkSprites;      // ‰¡ˆÚ“®—p
+    public Sprite[] walkUpSprites;    // ãˆÚ“®—p
+    public Sprite[] walkDownSprites;  // ‰ºˆÚ“®—p
     public float animationInterval = 0.15f;
 
     private Vector3 startPosition;
@@ -18,6 +20,7 @@ public class CustomerMover : MonoBehaviour
     private int moveDirection = 1;
 
     private SpriteRenderer spriteRenderer;
+    private Sprite[] currentWalkSprites;
     private int walkFrameIndex = 0;
     private float animationTimer = 0f;
 
@@ -43,15 +46,13 @@ public class CustomerMover : MonoBehaviour
         targetPosition = pointB;
         moveDirection = 1;
 
-        if (walkSprites != null && walkSprites.Length > 0 && spriteRenderer != null)
-        {
-            spriteRenderer.sprite = walkSprites[0];
-        }
+        UpdateCurrentWalkSprites();
     }
 
     void Update()
     {
         MoveCustomer();
+        UpdateCurrentWalkSprites();
         UpdateWalkAnimation();
         UpdateFacingDirection();
     }
@@ -79,6 +80,44 @@ public class CustomerMover : MonoBehaviour
         }
     }
 
+    void UpdateCurrentWalkSprites()
+    {
+        Sprite[] selectedSprites;
+
+        if (moveHorizontal)
+        {
+            selectedSprites = walkSprites;
+        }
+        else
+        {
+            if (moveDirection == 1)
+            {
+                selectedSprites = walkUpSprites;
+            }
+            else
+            {
+                selectedSprites = walkDownSprites;
+            }
+        }
+
+        if (selectedSprites == null || selectedSprites.Length == 0)
+        {
+            selectedSprites = walkSprites;
+        }
+
+        if (currentWalkSprites != selectedSprites)
+        {
+            currentWalkSprites = selectedSprites;
+            walkFrameIndex = 0;
+            animationTimer = 0f;
+
+            if (spriteRenderer != null && currentWalkSprites != null && currentWalkSprites.Length > 0)
+            {
+                spriteRenderer.sprite = currentWalkSprites[0];
+            }
+        }
+    }
+
     void UpdateWalkAnimation()
     {
         if (spriteRenderer == null)
@@ -86,7 +125,7 @@ public class CustomerMover : MonoBehaviour
             return;
         }
 
-        if (walkSprites == null || walkSprites.Length == 0)
+        if (currentWalkSprites == null || currentWalkSprites.Length == 0)
         {
             return;
         }
@@ -98,9 +137,9 @@ public class CustomerMover : MonoBehaviour
             animationTimer = 0f;
 
             walkFrameIndex++;
-            walkFrameIndex = walkFrameIndex % walkSprites.Length;
+            walkFrameIndex = walkFrameIndex % currentWalkSprites.Length;
 
-            spriteRenderer.sprite = walkSprites[walkFrameIndex];
+            spriteRenderer.sprite = currentWalkSprites[walkFrameIndex];
         }
     }
 
