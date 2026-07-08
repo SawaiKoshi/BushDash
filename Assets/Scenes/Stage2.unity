@@ -784,8 +784,8 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0.7, g: 0.7, b: 0.7, a: 1}
+  m_Sprite: {fileID: 21300000, guid: b8e2453ae920bd346af1160b8238fb38, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1416,8 +1416,8 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0.7, g: 0.7, b: 0.7, a: 1}
+  m_Sprite: {fileID: 21300000, guid: b8e2453ae920bd346af1160b8238fb38, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -7205,8 +7205,8 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0.7, g: 0.7, b: 0.7, a: 1}
+  m_Sprite: {fileID: 21300000, guid: b8e2453ae920bd346af1160b8238fb38, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -7406,6 +7406,8 @@ MonoBehaviour:
   - {fileID: 1755881834, guid: 02a9706e2c768c845b4d70e1b21d123b, type: 3}
   - {fileID: -2020696448, guid: 02a9706e2c768c845b4d70e1b21d123b, type: 3}
   - {fileID: 1755881834, guid: 02a9706e2c768c845b4d70e1b21d123b, type: 3}
+  walkUpSprites: []
+  walkDownSprites: []
   animationInterval: 0.15
 --- !u!61 &1157574312
 BoxCollider2D:
@@ -8093,8 +8095,8 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0.7, g: 0.7, b: 0.7, a: 1}
+  m_Sprite: {fileID: 21300000, guid: b8e2453ae920bd346af1160b8238fb38, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -9656,8 +9658,8 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0.7, g: 0.7, b: 0.7, a: 1}
+  m_Sprite: {fileID: 21300000, guid: b8e2453ae920bd346af1160b8238fb38, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -10070,6 +10072,8 @@ MonoBehaviour:
   - {fileID: 632590013, guid: 02a9706e2c768c845b4d70e1b21d123b, type: 3}
   - {fileID: -811030992, guid: 02a9706e2c768c845b4d70e1b21d123b, type: 3}
   - {fileID: 632590013, guid: 02a9706e2c768c845b4d70e1b21d123b, type: 3}
+  walkUpSprites: []
+  walkDownSprites: []
   animationInterval: 0.15
 --- !u!1 &1554991450
 GameObject:
