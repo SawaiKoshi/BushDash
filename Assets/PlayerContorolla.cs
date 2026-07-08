@@ -248,6 +248,12 @@ void Start()
         if (other.CompareTag("Customer"))
         {
             TakeHitPenalty(other.gameObject);
+            CustomerMover customerMover = other.gameObject.GetComponentInParent<CustomerMover>();
+
+            if (customerMover != null)
+            {
+                customerMover.PauseAfterHit();
+            }
         }
     }
     private void OnTriggerExit2D(Collider2D other)

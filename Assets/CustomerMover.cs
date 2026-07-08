@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class CustomerMover : MonoBehaviour
@@ -5,7 +6,11 @@ public class CustomerMover : MonoBehaviour
     public float moveSpeed = 2f;
     public float moveDistance = 3f;
     public bool moveHorizontal = true;
+    [Header("Hit Stop")]
+    public float hitStopDuration = 0.4f;
 
+    private bool isPaused = false;
+    private Coroutine pauseCoroutine;
     [Header("Walk Animation")]
     public Sprite[] walkSprites;      // â°à⁄ìÆóp
     public Sprite[] walkUpSprites;    // è„à⁄ìÆóp
@@ -51,6 +56,11 @@ public class CustomerMover : MonoBehaviour
 
     void Update()
     {
+        if (isPaused)
+        {
+            return;
+        }
+
         MoveCustomer();
         UpdateCurrentWalkSprites();
         UpdateWalkAnimation();
@@ -165,5 +175,22 @@ public class CustomerMover : MonoBehaviour
         {
             spriteRenderer.flipX = false;
         }
+    }
+    public void PauseAfterHit()
+    {
+        if (pauseCoroutine != null)
+        {
+            StopCoroutine(pauseCoroutine);
+        }
+        pauseCoroutine = StartCoroutine(PauseRoutine());
+    }
+    IEnumerator PauseRoutine()
+    {
+        isPaused = true;
+
+        yield return new WaitForSeconds(hitStopDuration);
+
+        isPaused = false;
+        pauseCoroutine = null;
     }
 }
