@@ -1435,6 +1435,7 @@ MonoBehaviour:
   moveSpeed: 5.8
   moveDistance: 2
   moveHorizontal: 0
+  hitStopDuration: 0.4
   walkSprites: []
   walkUpSprites:
   - {fileID: -1684423186, guid: 02a9706e2c768c845b4d70e1b21d123b, type: 3}
@@ -2499,6 +2500,13 @@ MonoBehaviour:
   idleSideSprite: {fileID: -1762486989, guid: 02a9706e2c768c845b4d70e1b21d123b, type: 3}
   walkFrameInterval: 0.15
   dishSearchRadius: 1
+  playerSpriteRenderer: {fileID: 536464115}
+  heldDishSpriteRenderers:
+  - {fileID: 168332278}
+  - {fileID: 1296109206}
+  - {fileID: 881141197}
+  - {fileID: 500554201}
+  - {fileID: 104069449}
 --- !u!50 &536464118
 Rigidbody2D:
   serializedVersion: 5
@@ -3197,6 +3205,7 @@ MonoBehaviour:
   moveSpeed: 4
   moveDistance: 1.5
   moveHorizontal: 0
+  hitStopDuration: 0.4
   walkSprites: []
   walkUpSprites:
   - {fileID: 739483954, guid: 02a9706e2c768c845b4d70e1b21d123b, type: 3}
@@ -8228,6 +8237,7 @@ MonoBehaviour:
   moveSpeed: 6.5
   moveDistance: 2.5
   moveHorizontal: 1
+  hitStopDuration: 0.4
   walkSprites:
   - {fileID: -2020696448, guid: 02a9706e2c768c845b4d70e1b21d123b, type: 3}
   - {fileID: 1755881834, guid: 02a9706e2c768c845b4d70e1b21d123b, type: 3}

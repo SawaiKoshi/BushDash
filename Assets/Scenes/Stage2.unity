@@ -1872,6 +1872,13 @@ MonoBehaviour:
   idleSideSprite: {fileID: -1762486989, guid: 02a9706e2c768c845b4d70e1b21d123b, type: 3}
   walkFrameInterval: 0.15
   dishSearchRadius: 1
+  playerSpriteRenderer: {fileID: 536464115}
+  heldDishSpriteRenderers:
+  - {fileID: 168332278}
+  - {fileID: 336449247}
+  - {fileID: 1248077362}
+  - {fileID: 1124366873}
+  - {fileID: 1488002681}
 --- !u!50 &536464118
 Rigidbody2D:
   serializedVersion: 5
