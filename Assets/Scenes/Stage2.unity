@@ -7401,6 +7401,7 @@ MonoBehaviour:
   moveSpeed: 6
   moveDistance: 3
   moveHorizontal: 1
+  hitStopDuration: 0.4
   walkSprites:
   - {fileID: -2020696448, guid: 02a9706e2c768c845b4d70e1b21d123b, type: 3}
   - {fileID: 1755881834, guid: 02a9706e2c768c845b4d70e1b21d123b, type: 3}
@@ -10064,9 +10065,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a1544373cd1df54b975af9916670704, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CustomerMover
-  moveSpeed: 3
-  moveDistance: 1
+  moveSpeed: 5
+  moveDistance: 2.5
   moveHorizontal: 1
+  hitStopDuration: 0.4
   walkSprites:
   - {fileID: -811030992, guid: 02a9706e2c768c845b4d70e1b21d123b, type: 3}
   - {fileID: 632590013, guid: 02a9706e2c768c845b4d70e1b21d123b, type: 3}

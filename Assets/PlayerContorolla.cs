@@ -49,8 +49,11 @@ public class PlayerContorolla : MonoBehaviour
     public Sprite idleSideSprite;
     public float walkFrameInterval = 0.15f;
     public float dishSearchRadius = 1.0f;
+    [Header("Held Dish Sorting")]
+    [SerializeField] private SpriteRenderer playerSpriteRenderer;
+    [SerializeField] private SpriteRenderer[] heldDishSpriteRenderers;
 
-
+    
     private float walkAnimationTimer = 0f;
     private int walkFrameIndex = 0;
     private Vector2 lastMoveDirection = Vector2.down;
@@ -190,6 +193,13 @@ void Start()
         pos.y = Mathf.Clamp(pos.y, minY, maxY);
 
         transform.position = pos;
+
+        if (direction.sqrMagnitude > 0.01f)
+        {
+            lastMoveDirection = direction.normalized;
+        }
+
+        UpdateHeldDishSorting();
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
@@ -761,6 +771,36 @@ void Start()
             }
 
             currentDishActionText.gameObject.SetActive(true);
+        }
+    }
+    void UpdateHeldDishSorting()
+    {
+        if (playerSpriteRenderer == null)
+        {
+            return;
+        }
+
+        int dishSortingOrder;
+
+        if (lastMoveDirection.y > 0.1f)
+        {
+            dishSortingOrder = playerSpriteRenderer.sortingOrder - 1;
+        }
+        else if (lastMoveDirection.y < 0.1f)
+        {
+            dishSortingOrder = playerSpriteRenderer.sortingOrder + 1;
+        }
+        else
+        {
+            dishSortingOrder = playerSpriteRenderer.sortingOrder + 1;
+        }
+
+        foreach (SpriteRenderer dishRenderer in heldDishSpriteRenderers)
+        {
+            if (dishRenderer != null)
+            {
+                dishRenderer.sortingOrder = dishSortingOrder;
+            }
         }
     }
 }

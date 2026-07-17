@@ -4840,6 +4840,11 @@ MonoBehaviour:
   idleSideSprite: {fileID: -1762486989, guid: 02a9706e2c768c845b4d70e1b21d123b, type: 3}
   walkFrameInterval: 0.15
   dishSearchRadius: 1
+  playerSpriteRenderer: {fileID: 536464115}
+  heldDishSpriteRenderers:
+  - {fileID: 168332278}
+  - {fileID: 2069021427}
+  - {fileID: 1694114009}
 --- !u!50 &536464118
 Rigidbody2D:
   serializedVersion: 5
@@ -5471,7 +5476,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: b8e2453ae920bd346af1160b8238fb38, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -5745,13 +5750,13 @@ MonoBehaviour:
   m_text: '
 
 
-    Clear all the dshes before time runs out!
+    Clear all the dishes before time runs out!
 
 
     Move: WASD / Arrow
     Keys
 
-    Pick Up / Put Dpwn: Space
+    Pick Up / Put Down: Space
 
 
     Carry up to 3 dishes at a time.
