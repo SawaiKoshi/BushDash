@@ -130,7 +130,66 @@
 
 ## 素材について
 
-使用した画像・音声素材の配布元および利用条件を確認し、クレジットが必要な素材については追記予定です。
+本作品では、以下の画像・音声素材を使用しています。  
+各素材は、配布元の利用規約および利用条件を確認した上で使用しています。
+
+### 画像素材
+
+- **2D 16-bit pixel top-down sprites**  
+  制作者：Godn0ta
+
+- **Free Pixel Tileset + Character Spritesheet**  
+  制作者：VoodooMoose
+
+- **Kitchen Assets**
+  制作者：Reakain  
+  使用素材：kitchen_v1.png  
+  配布元：itch.io
+
+  - **[LPC] Floors**
+  編集・公開：bluecarrot16 and LPC contributors  
+  配布元：[OpenGameArt.org](https://opengameart.org/content/lpc-floors)  
+  ライセンス：CC BY-SA 4.0  
+  使用素材：floors.png  
+  詳細な制作者一覧は配布元ページおよび同梱の `CREDITS-floors.txt` を参照してください。
+### BGM
+
+- **Welcome to our cafe**  
+  制作者：のる  
+  配布元：DOVA-SYNDROME
+
+- **南国の風**  
+  制作者：shimtone  
+  配布元：DOVA-SYNDROME
+
+- **Café After the Rain**  
+  制作者：lofichilldj  
+  配布元：BOOTH
+
+### 効果音
+
+- **Onoma-Flash 系効果音**
+- **Onoma-Negative 系効果音**  
+  配布元：OtoLogic
+
+- **お皿、食器に放り込む（ザラララララ）03**
+- **ぶつかる・擬音02**  
+  配布元：On-Jin ～音人～
+
+- **カーソル移動9**  
+- **パッ.mp3** 
+  配布元：効果音ラボ
+
+- **put_empty_plate**  
+  制作者：小森平  
+  配布元：無料効果音で遊ぼう！
+
+  ### 自作素材
+
+- **dirtyplate.png（汚れた皿の画像）**  
+  自作
+
+一部の素材については、配布元および利用条件を確認後、必要に応じて追記します。
 
 ## 開発状況
 
